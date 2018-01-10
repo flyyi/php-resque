@@ -1,7 +1,7 @@
-#source# 异步处理
+
 php-resque: PHP Resque Worker (and Enqueue) [![Build Status](https://secure.travis-ci.org/chrisboulton/php-resque.png)](http://travis-ci.org/chrisboulton/php-resque)
 ===========================================
-
+source  异步处理
 Resque is a Redis-backed library for creating background jobs, placing
 those jobs on one or more queues, and processing them later.
 
